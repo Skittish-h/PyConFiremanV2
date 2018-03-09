@@ -14,6 +14,7 @@ Projekt je relatívne lacný, všetko sa dá zohnať pod 15 Eur.
 
 ### Senzor Plameňa
 ![](/tutorial/Images/41hlVy5PJzL.jpg)
+
 **Cena**: 0,50 * 7 = 3,50 Eur
 
 **Zapojenie**: 
@@ -22,6 +23,7 @@ Projekt je relatívne lacný, všetko sa dá zohnať pod 15 Eur.
 
 ### 180° Servo
 ![](/tutorial/Images/servo.jpg)
+
 **Cena**: 1,50 Eur
 
 **Zapojenie**:
@@ -30,8 +32,12 @@ Projekt je relatívne lacný, všetko sa dá zohnať pod 15 Eur.
 
 ### Ventilátor + NPN Tranzistor
 ![](/tutorial/Images/fan.jpg)
+
 **Cena**: 5 + 0,5 = 5,50 Eur
 
 **Zapojenie**:
 
 **Ako funguje**: Ventilátor je normálny DC motor. Keď mu zapojíme + na + a - na -, tak sa bude točiť. Tým, že chceme regulovať, či je ventilátor vypnutý alebo zapnutý, musíme použiť tranzistor (môžeme použiť aj relátko). Tranzistor zjednodušene funguje ako elektronický gombík. Iba namiesto mechanickej sily používa na spínanie prúdu elektrický náboj. Teda keď mu pustíme do jednej z troch nožiek prúd, tak zopne ďalšie dve.
+## Fritzing(Breadboard) Schéma
+
+![](/tutorial/Images/waza.jpg
