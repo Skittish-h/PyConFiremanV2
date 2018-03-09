@@ -40,4 +40,4 @@ Projekt je relatívne lacný, všetko sa dá zohnať pod 15 Eur.
 **Ako funguje**: Ventilátor je normálny DC motor. Keď mu zapojíme + na + a - na -, tak sa bude točiť. Tým, že chceme regulovať, či je ventilátor vypnutý alebo zapnutý, musíme použiť tranzistor (môžeme použiť aj relátko). Tranzistor zjednodušene funguje ako elektronický gombík. Iba namiesto mechanickej sily používa na spínanie prúdu elektrický náboj. Teda keď mu pustíme do jednej z troch nožiek prúd, tak zopne ďalšie dve.
 ## Fritzing(Breadboard) Schéma
 
-![](/tutorial/Images/waza.jpg
+![](/tutorial/Images/waza.jpg)
